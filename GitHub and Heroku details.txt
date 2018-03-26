@@ -1,0 +1,2 @@
+Github: https://github.com/zakaryan2004/countryinfo/
+Heroku: https://countryinfo-wikipedia.herokuapp.com/
