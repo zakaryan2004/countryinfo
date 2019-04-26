@@ -1,4 +1,5 @@
-This is a website which is using Wikipedia's API and You can find informations about any country.
+# tanks-unity
+This is a web app which is using Wikipedia's API and You can find informations about any country.
 
 
 
