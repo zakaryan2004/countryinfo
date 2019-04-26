@@ -1,4 +1,4 @@
-# tanks-unity
+# countryinfo
 This is a web app which is using Wikipedia's API and You can find informations about any country.
 
 
